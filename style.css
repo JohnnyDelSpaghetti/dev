@@ -28,7 +28,6 @@ body {
       justify-content: center;
       align-items: center;
       animation: eyeload 1s ease;
-      box-shadow: 0px 0px 10px 3px #f00;
       background-color: #f00; }
       html .splitter .eye.hid,
       body .splitter .eye.hid {

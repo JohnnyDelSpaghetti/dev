@@ -1,0 +1,19 @@
+<svg height="120" width="100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g id="shield">
+		<path d="M0,20 
+        c 20 -0,40 -13,50 -20
+        c 10 7,30 20,50 20
+        c 0 40,-10 70, -50 100
+        c -40 -30, -50 -60, -50 -90"
+        />
+    </g>
+    <use href="#shield" xlink:href="#shield" fill="#fff"/>
+    <use x="4.35" y="5" transform="scale(0.92)" href="#shield" xlink:href="#shield" fill="#000" />
+
+    <rect x="48" y="3" fill="#fff" width="4" height="115"/>
+    <rect x="5" y="55" fill="#fff" width="90" height="4"/>
+
+    <rect transform="rotate(45)" x="65.5" y="-5" width="20" height="20" fill="#fff"/>
+    <rect transform="rotate(45)" x="68" y="-2.5" width="15" height="15" fill="#fff"/>
+
+</svg>

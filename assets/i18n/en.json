@@ -1,13 +1,13 @@
 {
     "APP":{
         "TITLE":"Section 6",
-        "ABOUT":{
-            "TITLE":"About",
+        "MISSION":{
+            "TITLE":"Our mission",
             "CONTENT":"Shiet Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
         },
-        "CONTACT":{
-            "TITLE":"Contact",
-            "CONTENT":"-----BEGIN PGP MESSAGE-----\nVersion: GnuPG v2.0.16 (GNU/Linux)\nhQEMA1PUVhZb8UnsAQf+KS9PNvkWYFONnoStveMc4KwvGT7WlRFv/ZACvdyFsKDO\nicurhL57uh56KCof1m5drfftwjDQWgNyMy0cixqV/2WzeQgjZILE0Z1FDg7cgAbs\nUZvy2hmaJf0dhHEUziALotfUMhoSeHeObxmomzb7vovJv5tWDtQ9W+p2tbQ4tiin\nLAsJtwQhEVPNltootBteC0dTgOdISe6kfqUSoN3A22SiSUihmjxMPiiO6iZB8gBS\nhhfiSPa4khNwODncRe2BjqW+YQHf7L6CfLjx2S1BCSr+KWLmUnVdWSUonhHPF9mI\nE/q7t2uoBWg0iQgCjQubgYeqSUYN/xWpqAUX9O71zdKUAbVjjLVT0qTjNLLvms2H\ns4BDzHEqKeuGuMAWFzyfuW+VNofTxtcHhzrdjPuYi7sRL3YNUvqUpcGeKGyTApW2\nk/fd7U32av7Pq63NoKK2g3RFcyBUiSdNlNhW8TYS1NdMSMXNw1R9dWVgFmsLj2vs\nRv89ufRiPbNLDXcx7CkRrTf13q0miy1850d6k5nt8qUFrnh4xQ==\n=z6Xk\n-----END PGP MESSAGE-----"
+        "ABOUT":{
+            "TITLE":"./whoarewe",
+            "CONTENT":"Shiet Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
         }
     }
 }

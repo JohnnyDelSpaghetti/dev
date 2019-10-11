@@ -4,6 +4,6 @@
         c 10 7,30 20,50 20
         c 0 40,-10 70, -50 100
         c -40 -30, -50 -60, -50 -90 Z"
-        transform="scale(.95)" stroke-width="5" fill="none" stroke="#fff"/>
-    <path d="M50,5 l0,37 l-15,15 l-30,0 l30,0 l15,15 l0,45 l0,-45 l15,-15 l30,0 l-30,0 l-15,-15" fill="none" stroke="#fff" stroke-width="4"/>
+        transform="scale(.95)" stroke-width="5" fill="none" stroke="#0ff"/>
+    <path d="M50,5 l0,37 l-15,15 l-30,0 l30,0 l15,15 l0,45 l0,-45 l15,-15 l30,0 l-30,0 l-15,-15" fill="none" stroke="#0ff" stroke-width="4"/>
 </svg>
